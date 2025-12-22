@@ -1,22 +1,22 @@
 # Day of the Week Algorithm
 
 ## Overview
-This project implements an algorithm to calculate the day of the week
-for a given date without relying on built-in date or time libraries.
+This project implements an algorithm in C++ to calculate the day of the
+week for a given date without using built-in date or time libraries.
 
 ## Objective
-- Understand calendar-based algorithms
-- Apply arithmetic and logical reasoning
-- Avoid dependency on standard date utilities
+- Apply arithmetic-based calendar algorithms
+- Strengthen logical and mathematical reasoning
+- Avoid reliance on standard date utilities
 
 ## Key Concepts
 - Modular arithmetic
 - Date normalization
-- Algorithmic reasoning
+- Algorithmic problem solving
 
-## Technologies
-- Python / C++
+## Technology
+- C++
 
 ## Notes
-The project focuses on correctness and clarity of the algorithm rather
-than user interface or performance optimizations.
+The implementation prioritizes correctness and clarity of logic rather
+than performance or user interface considerations.
